@@ -31,7 +31,7 @@ Installed by hand on the Ubuntu box, not in Docker.
 
        sudo mysql
        CREATE DATABASE dvwa;
-       CREATE USER 'dwwa'@'localhost' IDENTIFIED BY '<password>';
+       CREATE USER 'dvwa'@'localhost' IDENTIFIED BY '<password>';
        GRANT ALL ON dvwa.* TO 'dvwa'@'localhost';
        FLUSH PRIVILEGES;
 
