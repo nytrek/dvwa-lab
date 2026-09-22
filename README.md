@@ -16,7 +16,7 @@ own or don't have written permission to test.
 
 ## Lab
 
-How the lab is set up (Docker, versions, how to reach it): [00-setup](00-setup/).
+How the lab is set up (OS, versions, how to reach it): [00-setup](00-setup/).
 
 ## Writeups
 
